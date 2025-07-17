@@ -6,6 +6,13 @@
 
 **Note:** This canvas document is our shared workspace. The Google Doc serves as the public-facing version, where you copy this structured content to share or expand upon it more freely. Legacy content, notes, and broader drafts live there.
 
+**Future To-Do:**
+
+* Create a `README.md` for GitHub repo summarizing the purpose and structure of the project
+* Draft a `CONTRIBUTING.md` to invite collaboration while preserving coherence
+* Organize project into philosophical branches (e.g., `ethics/`, `structure/`, `meta/`, etc.)
+* Break this file (`Project-Outline.md`) into parts in a `Project-Outline/` directory
+
 ---
 
 ## The Project: Working Outline
